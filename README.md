@@ -5,13 +5,15 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/sebastian-demmler-795289239" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=daffodil332.daffodil332" />
 </div>
 
 ###
@@ -24,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sebastian from Germany <br><br>- 🔭 I’m a Homelaber for 5+ years <br>- 📚 I'm currently learning Data Science, Automation, Programming <br>- ⚡ In my free time I configure my HomeServer</p>
+<p align="left">I'm Sepp from Germany <br><br>- 🔭 I’m a Homelaber for 5+ years <br>- 📚 I'm currently learning Data Science, Automation, Programming <br>- ⚡ In my free time I play Volleyball and configure/upgrade/test my HomeServer setup</p>
 
 ###
 
@@ -50,16 +52,6 @@
   <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/authentik" height="40" alt="authentik logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
