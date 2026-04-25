@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sepp from Germany <br><br>- 🔭 I’m a Homelaber for 5+ years <br>- 📚 I'm currently learning Data Science, Automation, Programming <br>- ⚡ In my free time I play Volleyball and configure/upgrade/test my HomeServer setup</p>
+<p align="left">I'm Sepp from Germany <br><br>- 🔭 I’m a Homelaber for 5+ years <br>- 📚 I'm currently improving in Data Science, Automation, Programming <br>- ⚡ In my free time I play Volleyball and configure/upgrade/test my HomeServer setup</p>
 
 ###
 
