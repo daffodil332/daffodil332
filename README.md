@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sepp from Germany <br><br>- 🔭 I’m a HomeLab enthusiast for 5+ years <br>- 📚 I'm currently improving in Data Science, Automation, Programming <br>- ⚡ In my free time I play Volleyball and configure/upgrade/test my HomeServer setup</p>
+<p align="left">I'm Sepp from Germany <br><br> 🔭 I’m a HomeLab enthusiast for 5+ years <br> 📚 I'm currently improving in Data Science, Automation, Programming <br> ⚡ In my free time I play Volleyball and configure/upgrade/test my HomeServer setup</p>
 
 ###
 
@@ -52,6 +52,8 @@
   <img src="https://cdn.simpleicons.org/n8n" height="40" alt="n8n logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/authentik" height="40" alt="authentik logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ansible" height="40" alt="ansible logo"  />
 </div>
 
 ###
